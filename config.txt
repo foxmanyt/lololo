@@ -1,0 +1,6 @@
+owner=458074626564554762
+prefix=2
+game= Storm.
+stayinchannel=true
+songinstatus=false
+token=NTU5MTM0NTU3NjU2MzE3OTUy.D3g-UQ.pvbvh_phedHnBxBQPD6VGrPtJdc
